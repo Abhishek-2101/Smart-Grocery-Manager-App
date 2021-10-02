@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Smart Grocery Manager</string>
+    <string name="open">Smart Grocery Manager</string>
+    <string name="close">Smart Grocery Manager</string>
+    <string name="welcome"> <b> Welcome to Smart Grocery Manager </b></string>
+</resources>
